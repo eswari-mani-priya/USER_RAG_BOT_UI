@@ -1,4 +1,4 @@
-const API_URL = "https://your-api.onrender.com/chat"; // Replace with your actual API URL
+const API_URL = "https://user-rag-bot.onrender.com/chat"; // Replace with your actual API URL
 
 async function sendMessage() {
     const userInput = document.getElementById("userInput").value.trim();
